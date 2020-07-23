@@ -22,7 +22,7 @@ namespace ElevenNote.Services
         public bool CreateNote(NoteCreate model)
         {
             var entity =
-                new Note() // this will creat an intance of note
+                new Note() // this will create an intance of note
                 {
                     OwnerId = _userId,
                     Title = model.Title,
@@ -77,8 +77,6 @@ namespace ElevenNote.Services
                         CreatedUtc = entity.CreatedUtc,
                         ModifiedUtc = entity.ModifiedUtc
                     };
-
-
             }
         }
 
