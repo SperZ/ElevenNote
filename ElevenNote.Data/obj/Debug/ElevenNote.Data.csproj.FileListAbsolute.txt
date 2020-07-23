@@ -28,8 +28,10 @@ C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\bin\De
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.xml
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.Owin.xml
-C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.Initial.resources
