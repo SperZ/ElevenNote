@@ -21,8 +21,8 @@ namespace ElevenNote.Data
         [Required]
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }
-        public int? CatId { get; set; }
-        [ForeignKey(nameof(CatId))]
-        public virtual Category Category { get; set; }
+        public int? CatId { get; set; } //this cannot have the same name as the Id in the foreign key it is referencing
+        [ForeignKey(nameof(CatId))]// 1 to many relationship 1 category to many notes
+        public virtual Category Category { get; set; } // GIVES US ACCESS TO POINT TO ANY PROPERTY WITHIN THE Category class by using note.Category.Name
     }
 }

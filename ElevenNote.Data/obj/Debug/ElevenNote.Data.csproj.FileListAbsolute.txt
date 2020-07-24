@@ -35,3 +35,4 @@ C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\De
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
 C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.Initial.resources
+C:\Code Projects\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache
