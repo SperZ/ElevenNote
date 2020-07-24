@@ -23,7 +23,6 @@ namespace ElevenNote.Services
                 ctx.Category.Add(entity);
                 return ctx.SaveChanges() == 1;
             }
-
         }
 
         public IEnumerable<CategoryListItem> GetAll()
@@ -42,10 +41,9 @@ namespace ElevenNote.Services
                             CreatedUtc = e.CreatedUtc
                         }
 
-                        ) ;
+                    ) ;
                 return query.ToArray();
             }
-
         }
 
         public CategoryDetails GetCategoryById(int id)
@@ -79,9 +77,7 @@ namespace ElevenNote.Services
                 entity.Name = model.Name;
                 entity.ModifiedUtc = DateTimeOffset.UtcNow;
 
-                return ctx.SaveChanges() == 1;
-                    
-                    
+                return ctx.SaveChanges() == 1;     
             }
         }
 
